@@ -6,13 +6,15 @@ A MelonLoader mod for Xenopurge.
 
 ![screenshot](screenshots/screenshot.png)
 
+Source code is available on [GitHub](https://github.com/bottledwhisky/XenopurgeNoRescue).
+
 ## Features
 
 - Removes rescue missions after you have 4 squad units.
 
 ## Requirements
 
-- [MelonLoader](https://melonloader.co/)
+- [MelonLoader](https://melonwiki.xyz/)
 
 ## Installation
 
